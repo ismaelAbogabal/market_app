@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "392426324113",
+    "firebase_url": "https://market-2e9b2.firebaseio.com",
+    "project_id": "market-2e9b2",
+    "storage_bucket": "market-2e9b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392426324113:android:3c1d4d60f53efcc8457f30",
+        "android_client_info": {
+          "package_name": "com.abogabal.market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392426324113-sd89e20h7er1s4h8q6fiqlhgjhfm3upj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUNwLvNsvcE0SMw1_UvW7aa-DPHqpR5_8 "
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392426324113-sd89e20h7er1s4h8q6fiqlhgjhfm3upj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
